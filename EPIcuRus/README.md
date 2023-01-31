@@ -6,6 +6,6 @@ K. Gaaloul, C. Menghi, S. Nejati, L. C. Briand, and D. Wolfe, “Mining assumpti
 original code reference:
 https://github.com/SNTSVV/EPIcuRus
 
-All code in EPIcuRus is developed by Gaaloul et al. University of Luxembourg
+All code in EPIcuRus is developed by Gaaloul et al. from University of Luxembourg
 
-Partial code is modified by Ling et al. North Carolina State University
+Partial code is modified by Ling et al. from North Carolina State University
