@@ -26,7 +26,7 @@ n_tests = 32;
 7. Click **Run** botton to start the experiment.
 
 ## Additional tips
-1. You can choose which algorithm to run in the **experiment_runner.m** file:
+1. You can choose which algorithm to run in the **utils/experiment_runner.m** file:
 ```
 %   running_mode = ["random", "epicurus", "sway", "od"];
     running_mode = ["random", "sway"];
